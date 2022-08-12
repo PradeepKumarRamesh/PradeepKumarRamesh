@@ -1,9 +1,9 @@
 
-  ### 👋 Hi, I’m Pradeep Kumar Ramesh, 
+  ### 👋 Hi, I’m Pradeep Kumar Ramesh, MSCS Grad Student @BinghamtonUniversity 
   
  
 
-Total visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/PradeepKumarRamesh/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/PradeepKumarRamesh/count.svg)
 
 
 
@@ -29,7 +29,7 @@ AWS
 Java
 Android Studio
 Iot
-
+/
 Thank You :)
 
 ⭐️ From Pradeep Kumar Ramesh ⭐️
