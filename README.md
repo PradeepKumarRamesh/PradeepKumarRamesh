@@ -1,4 +1,7 @@
-👋 Hi, *I’m Pradeep Kumar Ramesh*
+@settings {
+  font-size: 100;
+  👋 Hi, I’m Pradeep Kumar Ramesh
+ }
 
 ![Visitor Count](https://profile-counter.glitch.me/PradeepKumarRamesh/count.svg)
 
