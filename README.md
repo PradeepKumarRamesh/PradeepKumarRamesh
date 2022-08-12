@@ -7,7 +7,7 @@ Total visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/PradeepKu
 
 
 
-### Facts about me:
+###Facts about me:###
 
 Here are some ideas to help you get started:
 🔭 I’m currently working on Developing a Web Portfolio
@@ -31,4 +31,4 @@ Iot
 
 Thank You :)
 
-### ⭐️ From Pradeep Kumar Ramesh ⭐️
+⭐️ From Pradeep Kumar Ramesh ⭐️
