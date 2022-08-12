@@ -27,7 +27,7 @@ Github\
 AWS\
 Java\
 Android Studio\
-Iot\
+Iot
 
 Thank You :)
 
