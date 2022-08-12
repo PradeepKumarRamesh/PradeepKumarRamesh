@@ -28,7 +28,7 @@ AWS\
 Java\
 Android Studio\
 Iot\
-/
-Thank You :)\
+
+Thank You :)
 
 ⭐️ From Pradeep Kumar Ramesh ⭐️\
