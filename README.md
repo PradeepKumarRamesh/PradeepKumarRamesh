@@ -8,7 +8,7 @@
 
 
 
-###Facts about me:
+### Facts about me:
 \
 🔭 I’m currently working on Developing a Web Portfolio\
 👀 I’m interested in learning new technology and observe the world with multiple perspective's\
@@ -29,6 +29,6 @@ Java\
 Android Studio\
 Iot
 
-Thank You :)
+### Thank You :)
 
 ⭐️ From Pradeep Kumar Ramesh ⭐️
