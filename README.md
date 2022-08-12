@@ -3,7 +3,7 @@
   
  
 
- ![Visitor Count](https://profile-counter.glitch.me/PradeepKumarRamesh/count.svg)
+Total Visitors 👉  ![Visitor Count](https://profile-counter.glitch.me/PradeepKumarRamesh/count.svg)
 
 
 
