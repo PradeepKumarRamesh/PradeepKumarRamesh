@@ -17,7 +17,7 @@ Facts about me:
 🔍 I’m looking forward to collaborate on projects\
 😄 Pronouns: He/His\
 📫 Please feel free to reach me at pramesh2@binghamton.edu\
-⚡ Fun fact about me: I can talk 24/7 about my gadgets and new tech in the industry and any Code.\
+⚡ Fun fact about me: I can talk 24/7 about my gadgets and new tech in the industry and any Code.
 
 Visual Studio Code\
 Javascript\
