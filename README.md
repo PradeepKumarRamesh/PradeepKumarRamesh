@@ -1,6 +1,7 @@
 
-  ### 👋 Hi, I’m Pradeep Kumar Ramesh, 
-                            ###       MS CS Grad Student at Binghamton University 
+  ### 👋 Hi, I’m Pradeep Kumar Ramesh,      
+                                 
+                                      MS CS Grad Student at Binghamton University 
   
  
 
