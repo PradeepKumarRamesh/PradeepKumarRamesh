@@ -1,7 +1,7 @@
 
   ### 👋 Hi, I’m Pradeep Kumar Ramesh,      
                                  
-                                      MS CS Grad Student at Binghamton University 
+                                      Software Developer by Designation 
   
  
 
@@ -18,7 +18,7 @@ Total Visitors 👉  ![Visitor Count](https://profile-counter.glitch.me/PradeepK
 💞️ I’m looking for a full-time job\
 🔍 I’m looking forward to collaborate on projects\
 😄 Pronouns: He/His\
-📫 Please feel free to reach me at pramesh2@binghamton.edu\
+📫 Please feel free to reach me at pradeepcompa@gmail.com\
 ⚡ Fun fact about me: I can talk 24/7 about my gadgets and new tech in the industry and any Code.
 
 Visual Studio Code\
