@@ -15,7 +15,7 @@
 
 ### 🔭 About Me
 
-- 🔭 I’m currently working on **Agent Developments Projects**
+- 🔭 I’m currently working on **Agent Development Projects**
 - 👀 I’m interested in learning new technology and observing the world through multiple perspectives
 - 💬 Ask me about **Data Structures and Algorithms, Python, C++, and Java**
 - 💞️ I’m looking for a **full-time job** as a Software Developer
